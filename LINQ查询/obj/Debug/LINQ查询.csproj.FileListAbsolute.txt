@@ -1,0 +1,6 @@
+c:\users\administrator\documents\visual studio 2013\Projects\LINQ查询\LINQ查询\bin\Debug\LINQ查询.exe.config
+c:\users\administrator\documents\visual studio 2013\Projects\LINQ查询\LINQ查询\obj\Debug\LINQ查询.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2013\Projects\LINQ查询\LINQ查询\bin\Debug\LINQ查询.exe
+c:\users\administrator\documents\visual studio 2013\Projects\LINQ查询\LINQ查询\bin\Debug\LINQ查询.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\LINQ查询\LINQ查询\obj\Debug\LINQ查询.exe
+c:\users\administrator\documents\visual studio 2013\Projects\LINQ查询\LINQ查询\obj\Debug\LINQ查询.pdb
